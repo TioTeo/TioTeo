@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+# Hello world!
+My name is Anteo, I'm a UX designer learning to code! Here are a few things I'm working on:
+- Studio AQUA - My freelance design studio. Do you have any projects or ideas we might be able to collaborate on!?
+- Developing the website for Studio AQUA
+- Harvard's CS50 via Freecodecamp.com!
 <!--
 **TioTeo/TioTeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
